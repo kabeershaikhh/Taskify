@@ -8,6 +8,8 @@ Taskify is a sleek and intuitive task management Android application that allows
 <p align="center"> <img src="add_task.jpg" width="200"/> </p>
 📝 Edit Task
 <p align="center"> <img src="edit_task.jpg" width="200"/> </p>
+🗂️ App Icon
+<p align="center"> <img src="app_icon.jpg" width="200"/> </p>
 
 🚀 Features:
 
