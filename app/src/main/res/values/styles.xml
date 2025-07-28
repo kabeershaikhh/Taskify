@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Style to disable tint on buttons -->
+    <style name="NoButtonTint" parent="ThemeOverlay.Material3">
+        <item name="materialButtonStyle">@style/PlainButtonStyle</item>
+    </style>
+
+    <style name="PlainButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="android:background">@null</item>
+    </style>
+
+</resources>
