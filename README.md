@@ -3,9 +3,7 @@ Taskify is a sleek and intuitive task management Android application that allows
 
 📸 Screenshots
 🏠 Splash & Home Screen
-<p align="center"> <img src="splash_screen.jpg" width="200"/>  </p>
-<p align="center">  <img src="main_screen1.jpg" width="200"/> </p>
-<p align="center">  <img src="main_screen2.jpg" width="200"/> </p>
+<p align="center"> <img src="splash_screen.jpg" width="200"/>  <img src="main_screen1.jpg" width="200"/>  <img src="main_screen2.jpg" width="200"/> </p>
 ➕ Add Task
 <p align="center"> <img src="add_task.jpg" width="200"/> </p>
 📝 Edit Task
