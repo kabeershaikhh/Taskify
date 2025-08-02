@@ -2,6 +2,7 @@ plugins {
     id("kotlin-kapt")
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.google.gms.google.services)
 }
 
 android {
@@ -34,12 +35,16 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+    buildFeatures {
+        viewBinding= true
+    }
 }
 
 dependencies {
 
         implementation("androidx.room:room-runtime:2.6.1")
-        kapt("androidx.room:room-compiler:2.6.1")
+    implementation(libs.firebase.auth)
+    kapt("androidx.room:room-compiler:2.6.1")
         implementation("androidx.room:room-ktx:2.6.1")
 
     // ViewModel
