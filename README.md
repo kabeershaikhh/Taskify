@@ -1,4 +1,4 @@
-✅ Taskify
+✅ Taskify <Br>
 Taskify is a sleek and intuitive task management Android application that allows users to add, edit, delete, and manage their daily tasks with ease. Built with Kotlin in Android Studio, Taskify follows a clean architecture using MVVM, offering a smooth and organized experience for personal productivity with firebase for authentication.
 
 📸 Screenshots
