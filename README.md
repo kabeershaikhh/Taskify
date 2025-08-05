@@ -5,7 +5,11 @@ Taskify is a sleek and intuitive task management Android application that allows
 🏠 Splash & Home Screen
 <p align="center"> <img src="splash_screen.jpg" width="200"/> <img src="main_screen1.jpg" width="200"/> <img src="main_screen2.jpg" width="200"/> </p>
 🔐Signup Screen
-<p align="center"> <img src="splash_screen.jpg" width="200"/> <img src="main_screen1.jpg" width="200"/> <img src="main_screen2.jpg" width="200"/> </p>
+<p align="center"> <img src="signup1.jpg" width="200"/> <img src="signup2.jpg" width="200"/>  </p>
+🔓Login Screen
+<p align="center"> <img src="login1.jpg" width="200"/> <img src="login2.jpg" width="200"/> <img src="login3.jpg" width="200"/> </p>
+👤➡️Logout Function
+<p align="center"> <img src="logout1.jpg" width="200"/> <img src="logout.jpg" width="200"/> </p>
 ➕ Add Task
 <p align="center"> <img src="add_task.jpg" width="200"/> </p>
 📝 Edit Task
